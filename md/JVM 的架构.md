@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=Mzk0MDUwMTQ5MA==&tempkey=MTIyNl9lS1JiMDdYd2Zhb3BwS2ZGZlJyejY4Tm1QWHJaV2NSVHRkeG9KaUZtMVVxVlBwcFRnUWRMOFJqM1ZFZU5BWW81alJUTUVPQkpuLURVb3BNQkk4MUFZUUxWQjNORE50UWJMSExqdnlYZTV6VlVnVEUwWnAydDJTZjlscHZ0bEp6bU1aOERtalJGWEpuNzlJYWhnbTlCRHJxRUtVMDJSaXRYVkZNQTZBfn4%3D&chksm=42e1f1d2759678c4889699ff33cc970aaef02b57b6ac17cae0283f0022bdbe76eef1f37384c4&scene=0&xtrack=1&previewkey=Cb%252F4VbTuWYFpTggSat1KlcNS9bJajjJKzz%252F0By7ITJA%253D#rd)
 
 一、JVM 的架构
 
