@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247487562&idx=1&sn=30db880222112093f8dbb325088c16e4&chksm=e91152b7de66dba10d26f9fff3bb4a0e8f2a0af443cd70b79a2092cbaf9b4a86f98566070128&scene=178&cur_album_id=2361652762658144256#rd)
+
 
     本篇文章包含了 Java 虚拟机中非常重要且面试中经常会遇到的知识点，内容比较多，从 JMM 到垃圾回收算法再到垃圾回收器和调优常用参数，其中并不包含 ZGC，需要这方面知识点的同学们可以期待后续这方面的文章。闲话少叙，本篇文章的大纲如下所示：
 
