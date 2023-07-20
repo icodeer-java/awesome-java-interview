@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247484554&idx=1&sn=26b0924460c58628388f896b70265e0f&chksm=e9114677de66cf61c304fb1fa96cc0d89aecad6d6696de1da2daa54d24b2cb779d2d96e7d808&scene=178&cur_album_id=2142543588444995585#rd)
 
     上周写了一篇 MySQL——锁（一），本来想继续（二）、（三) 这么的排下去，但是觉得这么写文章，内容还是太分散了。所以，这篇就算是完整版吧。文章里的内容算是一个读书笔记，关于锁的入门和面试应急应该还是有些用处的。下面是文章内容设计的目录：  
 

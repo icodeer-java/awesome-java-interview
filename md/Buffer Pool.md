@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247484947&idx=1&sn=fa8cb52994b2b8e4eda1727251ac8166&chksm=e91144eede66cdf8a97ec12fb6a3033ff8bbf9074d1c4d9befa844226e5b1402f47707f7ea29&scene=178&cur_album_id=2142543588444995585#rd)
 
 一、缓存的重要性
 --------

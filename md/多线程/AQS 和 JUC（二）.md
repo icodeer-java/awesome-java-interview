@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247487302&idx=1&sn=af48eaca44649d33377a842d170d3b93&chksm=e9114dbbde66c4ad485a01e82ca764b782ea93e49db4e6692ee97098e7301032d1b3f9433094&scene=178&cur_album_id=2333693193059500033#rd)
 
     本篇文章主要介绍 AQS 和 JUC 这两部分。因为 JUC 底层大量的在使用 AQS，所以，这两部分将作为整体来进行介绍。下面是本篇文章的提纲，如下所示：
 
