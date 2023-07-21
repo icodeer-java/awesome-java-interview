@@ -25,4 +25,4 @@
 
 点击关注微信公众号，及时获取笔主最新更新文章，并可免费领取Java工程师必备学习资源。
 
-![-w622](https://s2.loli.net/2023/07/20/1RPN5LCOfMwQXrb.jpg)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/mH8PDoj8tAwywkJA2nveafk6YMneOGbF133hn6sYia9nrWG5tMg8nJeu2aXLsbyY2AtVM8UL7gct0rKb7En4BDw/640?wx_fmt=png)
