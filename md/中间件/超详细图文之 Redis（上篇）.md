@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247485288&idx=1&sn=6e5c9d236f83595264d85fa143043cfb&chksm=e9114595de66cc837fd976b1e17fc2f99e72a9e276f3b68a108d89be2f6cd0ecdd205561d319&scene=178&cur_album_id=2162186087471906816#rd)
 
 *   关于 Redis 的专题，将会由**上篇**和**下篇**这两篇文章来讲解，竭力收录了大部分关于 Redis 入门、使用、部署、面试题等知识点。本文为上篇的部分，内容如下所示：
     

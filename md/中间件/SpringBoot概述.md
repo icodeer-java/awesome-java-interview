@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247486233&idx=1&sn=fda7d410bedf6b56457757225a4d6bfa&chksm=e91149e4de66c0f2acd4a95cba907f43dbbd0700c8f70ccd9fc0cc7f57048683732cf79fc77b&scene=178&cur_album_id=2208187391738249217#rd)
+
 
     本篇是 SpringBoot 系列文章的第一篇，后面陆续会更新。本篇主要是介绍 SpringBoot 的相关特性，知识点比较基础入门。浏览起来应该会比较畅快淋漓。下面是本文的大纲：  
 

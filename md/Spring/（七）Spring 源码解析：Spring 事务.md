@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247492634&idx=1&sn=28a15ce59020da0d0d4b50375029ec8d&chksm=e912a6e7de652ff13126cf3ef1bc3ed02381b6338635d15ab92b497fe6356f7f5f7748caf14e&scene=178&cur_album_id=2208187391738249217#rd)
 
 对于事务来说，是我们平时在基于业务逻辑编码过程中不可或缺的一部分，它对于保证业务及数据逻辑原子性立下了汗马功劳。那么，我们基于 Spring 的声明式事务，可以方便我们对事务逻辑代码进行编写，那么在开篇的第一部分，我们就来用一个示例，来演示一下 Spring 事务的编写方式。
 

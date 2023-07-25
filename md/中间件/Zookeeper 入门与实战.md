@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247484932&idx=1&sn=b5c05fdf8b6eae437bf15b535e956ad9&chksm=e91144f9de66cdefe63b6cebf27311a868e935461c70249b372da97a4a1ed7f3d95e8ceacd91&scene=178&cur_album_id=2162186087471906816#rd)
 
     在分布式场景中，服务发现、分布式锁、节点状态监听等都会频繁的看到 Zookeeper 的身影，那么它同样在微服务中也扮演着重要的角色。那么，今天我们来慢慢的解开 Zookeeper 神秘的面纱。下面是本篇文章的目录  
 

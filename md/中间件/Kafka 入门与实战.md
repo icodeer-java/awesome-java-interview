@@ -1,5 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247485660&idx=1&sn=5e711ab124015b3fab48d4a46c26ed06&chksm=e9114a21de66c337f42bf4230422ea8fc62a674959ec6dc3ae32e322672ae2a67c30f6c57ef0&scene=178&cur_album_id=2162186087471906816#rd)
-
     今天我们来聊一聊现在 MQ 中最火爆的 Kafka 吧。关于 Kafka 的内容还是比较多的。本篇大概 15000 左右字，大家根据自己的需求来看吧。本文的大纲如下图所示：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/AZHyCoMMOC8IDNLNiaGIfs4icCgSnvxCGy69wOvsnnibOMpO3eNb1t1eFibcHErwPVeKf8fjCsiaVicSjaibdiaqJFyCkw/640?wx_fmt=png)

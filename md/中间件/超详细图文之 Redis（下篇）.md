@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247485511&idx=1&sn=f7bbbf4befce1f437b92573660a7612a&chksm=e9114abade66c3ac988e6930f6eeb7105d8be57e309173a5a14664ca55f9fe17e003c010a82c&scene=178&cur_album_id=2162186087471906816#rd)
 
 > 超详细图文之 Redis（上篇）
 > 
