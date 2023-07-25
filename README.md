@@ -22,6 +22,21 @@
 - [索引](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/mysql/%E7%B4%A2%E5%BC%95.md)
 - [锁](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/mysql/%E9%94%81%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
+## Spring
+- [（一）Spring 源码解析：容器的基本实现](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E4%B8%80%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9A%E5%AE%B9%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0.md)
+- [（二）Spring 源码解析：默认标签解析](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E4%BA%8C%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9A%E9%BB%98%E8%AE%A4%E6%A0%87%E7%AD%BE%E8%A7%A3%E6%9E%90.md)
+- [（三）Spring 源码解析：自定义标签解析](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E4%B8%89%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%87%E7%AD%BE%E8%A7%A3%E6%9E%90.md)
+- [（四）Spring 源码解析：bean 的加载流程](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E5%9B%9B%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9Abean%20%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.md)
+- [（五）Spring 源码解析：ApplicationContext 解析](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E4%BA%94%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9AApplicationContext%20%E8%A7%A3%E6%9E%90.md)
+- [（六）Spring 源码解析：Spring AOP 源码解析](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E5%85%AD%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9ASpring%20AOP%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+-[（七）Spring 源码解析：Spring 事务](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Spring/%EF%BC%88%E4%B8%83%EF%BC%89Spring%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%9ASpring%20%E4%BA%8B%E5%8A%A1.md)
+
+## 中间件
+- [Kafka 入门与实战](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Kafka%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
+- [Zookeeper 入门与实战](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
+- [超详细图文之 Redis（上篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89.md)
+- [超详细图文之 Redis（下篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
+
 ## DDD
 - [DDD概述](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/DDD/DDD%E6%A6%82%E8%BF%B0.md)
 - [上下文映射图](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/DDD/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%98%A0%E5%B0%84%E5%9B%BE.md)
