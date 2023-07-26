@@ -10,10 +10,12 @@
 这个仓库包含了以下内容：
 
 ## Java 基础
-- [设计原则.md]()
-- [Java 虚拟机.md]()
-- [JVM 的架构.md]()
-- [强软弱虚引用.md]()
+- [设计原则.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md)
+- [Java 虚拟机.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+- [JVM 的架构.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/JVM%20%E7%9A%84%E6%9E%B6%E6%9E%84.md)
+- [强软弱虚引用.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/%E5%BC%BA%E8%BD%AF%E5%BC%B1%E8%99%9A%E5%BC%95%E7%94%A8.md)
+- [Buffer Pool](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/Buffer%20Pool
+.md)
 
 ## Java并发编程
 - [Java虚拟机](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
@@ -42,27 +44,27 @@
 - [Zookeeper 入门与实战](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
 - [超详细图文之 Redis（上篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89.md)
 - [超详细图文之 Redis（下篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
-- [Elasticsearch 入门与实战.md]()
-- [Redis Cluster.md]()
-- [Redis 主从复制.md]()
-- [Redis 常见场景问题和解决方案.md]()
-- [redis特殊类型.md]()
-- [如何利用 Redis 进行事务处理呢？.md]()
+- [Elasticsearch 入门与实战.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Elasticsearch%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
+- [Redis Cluster.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis%20Cluster.md)
+- [Redis 主从复制.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis%20%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md)
+- [Redis 常见场景问题和解决方案.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Redis%20%E5%B8%B8%E8%A7%81%E5%9C%BA%E6%99%AF%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+- [redis特殊类型.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/redis%E7%89%B9%E6%AE%8A%E7%B1%BB%E5%9E%8B.md)
+- [如何利用 Redis 进行事务处理呢？.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20Redis%20%E8%BF%9B%E8%A1%8C%E4%BA%8B%E5%8A%A1%E5%A4%84%E7%90%86%E5%91%A2%EF%BC%9F.md)
 
-## 分布式事务
-- [Config、Bus、Stream.md]()
-- [Dubbo 入门与实践.md]()
-- [Eureka（超详细图文）.md]()
-- [Gateway（万字图文）.md]()
-- [Nacos 服务发现.md]()
-- [Nacos 配置中心.md]()
-- [Ribbon&OpenFeign.md]()
-- [Sentinel.md]()
-- [Sleuth、ELK、Zipkin.md]()
-- [分布式事务.md]()
-- [分布式事务 Seata（上）.md]()
-- [分布式事务 Seata（下）.md]()
-- []()
+## 微服务
+- [Config、Bus、Stream.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Config%E3%80%81Bus%E3%80%81Stream.md)
+- [Dubbo 入门与实践.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Dubbo%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
+- [Eureka（超详细图文）.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Eureka%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%EF%BC%89.md)
+- [Gateway（万字图文）.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Gateway%EF%BC%88%E4%B8%87%E5%AD%97%E5%9B%BE%E6%96%87%EF%BC%89.md)
+- [Nacos 服务发现.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Nacos%20%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0.md)
+- [Nacos 配置中心.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Nacos%20%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.md)
+- [Ribbon&OpenFeign.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Ribbon%26OpenFeign.md)
+- [Sentinel.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Sentinel.md)
+- [Sleuth、ELK、Zipkin.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Sleuth%E3%80%81ELK%E3%80%81Zipkin.md)
+- [分布式事务.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
+- [分布式事务 Seata（上）.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%20Seata%EF%BC%88%E4%B8%8A%EF%BC%89.md)
+- [分布式事务 Seata（下）.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%20Seata%EF%BC%88%E4%B8%8B%EF%BC%89.md)
+
 
 ## DDD
 - [DDD概述](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/DDD/DDD%E6%A6%82%E8%BF%B0.md)
