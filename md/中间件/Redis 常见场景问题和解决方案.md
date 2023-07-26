@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247490198&idx=1&sn=cf425d7f006166f80291b3ced0ef154d&chksm=e911586bde66d17dd4ed1f7513dd73418803c4795c445df262a7fe73418c24a119ee462824dc&scene=178&cur_album_id=2451364959101059073#rd)
 
 缓存穿透（查不到数据）
 ===========

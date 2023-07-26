@@ -9,6 +9,12 @@
 
 这个仓库包含了以下内容：
 
+## Java 基础
+- [设计原则.md]()
+- [Java 虚拟机.md]()
+- [JVM 的架构.md]()
+- [强软弱虚引用.md]()
+
 ## Java并发编程
 - [Java虚拟机](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 - [AQS与JUC](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E5%A4%9A%E7%BA%BF%E7%A8%8B/AQS%20%E5%92%8C%20JUC%EF%BC%88%E4%BA%8C%EF%BC%89.md)
@@ -36,6 +42,27 @@
 - [Zookeeper 入门与实战](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/Zookeeper%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)
 - [超详细图文之 Redis（上篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89.md)
 - [超详细图文之 Redis（下篇）](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E8%B6%85%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E4%B9%8B%20Redis%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
+- [Elasticsearch 入门与实战.md]()
+- [Redis Cluster.md]()
+- [Redis 主从复制.md]()
+- [Redis 常见场景问题和解决方案.md]()
+- [redis特殊类型.md]()
+- [如何利用 Redis 进行事务处理呢？.md]()
+
+## 分布式事务
+- [Config、Bus、Stream.md]()
+- [Dubbo 入门与实践.md]()
+- [Eureka（超详细图文）.md]()
+- [Gateway（万字图文）.md]()
+- [Nacos 服务发现.md]()
+- [Nacos 配置中心.md]()
+- [Ribbon&OpenFeign.md]()
+- [Sentinel.md]()
+- [Sleuth、ELK、Zipkin.md]()
+- [分布式事务.md]()
+- [分布式事务 Seata（上）.md]()
+- [分布式事务 Seata（下）.md]()
+- []()
 
 ## DDD
 - [DDD概述](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/DDD/DDD%E6%A6%82%E8%BF%B0.md)

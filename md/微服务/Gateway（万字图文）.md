@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247486062&idx=1&sn=ff7c575533ee8dc3e4aa7a725ce58e7d&chksm=e9114893de66c1851b156907839ef83cbf05fba3e95ee16fc948215a8f5e5290c5e74b5b491c&scene=178&cur_album_id=2173835491853336577#rd)
 
     这篇文章主要介绍 SpringCloud Gateway，它是 Spring 官方团队研发的 API 网关技术，它的目的是取代 Zuul 成为微服务提供一个简单高效的 API 网关。下面是目录概要：
 

@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247485831&idx=1&sn=b196fb71fd992b43066d54bffa3ed679&chksm=e9114b7ade66c26ceffa7bba83e4cd2272b39a5e11859ff6650647b8dba847b18a131c73a51e&scene=178&cur_album_id=2173835491853336577#rd)
+
 
     SpringCloud Alibaba 的 Nacos 其实包含了两部功能，一个是配置中心，另一个是服务发现。那么本篇文章，就先从它的配置中心功能来说起吧。还是老样子，目录如下所示：  
 

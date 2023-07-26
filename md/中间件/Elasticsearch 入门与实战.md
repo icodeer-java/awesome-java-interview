@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247484835&idx=1&sn=a8b93f49d495b0530f9235a851461326&chksm=e911475ede66ce480b990f15a440620b94ddc464dd36743abe9fe371034f2cdb2a10ed598197&scene=178&cur_album_id=2162186087471906816#rd)
 
     在电商等常见的搜索业务场景中，Elasticsearch 扮演着举足轻重的作用。它对于数据的准实时搜索可以达到很高的查询效率，并且天生自带的分布式、高可用、易扩展的能力，也使其具有了十足的魅力。那么，下面就是本篇文章的大纲结构。
 

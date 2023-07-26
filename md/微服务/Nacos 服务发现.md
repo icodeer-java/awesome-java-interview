@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247486401&idx=1&sn=ab5a818663fec1588f42125aee812ba3&chksm=e911493cde66c02a00a63db1af4dd0caf7bf17f88083817e5bf2b1fec037c54a7a0a8ce7d50b&scene=178&cur_album_id=2173835491853336577#rd)
+
 
     几个星期前曾经分享过 Nacos 在配置中心部分的内容，今天来分享它的另一部分内容，即：服务发现。废话不多说，来看一下今天这篇小文章的目录结构吧：  
 

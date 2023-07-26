@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247487759&idx=1&sn=b1a26b7f7654fade3bf15377de1cb77d&chksm=e91153f2de66dae4de1f1ed5e0f2d9490f53fb510a9ce534e6e6da316f80be4ae05fa4b1688e&scene=178&cur_album_id=2173835491853336577#rd)
+
 
     本篇文章介绍的是 SpringCloud Alibaba 技术栈中针对熔断限流的解决方案——Sentinel，本篇文章的大纲如下所示：  
 

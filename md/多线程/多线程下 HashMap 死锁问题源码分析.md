@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247489108&idx=1&sn=3fd8aae8e1cb7f5c4a8edf66f1196608&chksm=e91154a9de66ddbf3fba8aa046a5084b9079de519042fea4b3ff774ae8ab5de1fc16925db343&scene=178&cur_album_id=2451364959101059073#rd)
 
 > 在 JDK8 之前，当我们采用多线程的方式向 HashMap 中插入元素的时候，会有一定的概率造成线程死锁。这个问题在面试中也是比较常见的，那么原因是什么呢？“面试宝典” 里面常常会给出如下极简的答案：“**在数据迁移过程中，因为会采用头插法，所以会造成多线程死锁。而 jDK8 之后（包含 8）则采用了尾插法，所以，可以有效的避免这个问题**”。那么，本篇小短文就带着大家来到 **JDK7 的源码**中去深入的寻找更完整的答案。
 

@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI0MTE0NTc0Ng==&mid=2247485219&idx=1&sn=15771c920bb990b2651b836bcc9c94a4&chksm=e91145dede66ccc8103ee7c9c5578debc408a5acc3437c077e2f5ea58664bd3b0a211b1c07a5&scene=178&cur_album_id=2173835491853336577#rd)
+
 
     在微服务中，服务注册与发现的重要性不言而喻，现在市面上流行的除了 Dubbo 之外，也包含 SpringCloud Alibaba 的 Nacos 和今天我们要介绍的 SpringCloud Netflix 的 Eureka，那么还是老套路，先看一下本篇文章的大纲吧。
 
