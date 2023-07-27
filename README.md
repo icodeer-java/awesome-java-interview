@@ -14,8 +14,7 @@
 - [Java 虚拟机.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 - [JVM 的架构.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/JVM%20%E7%9A%84%E6%9E%B6%E6%9E%84.md)
 - [强软弱虚引用.md](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/%E5%BC%BA%E8%BD%AF%E5%BC%B1%E8%99%9A%E5%BC%95%E7%94%A8.md)
-- [Buffer Pool](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/Buffer%20Pool
-.md)
+- [Buffer Pool](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%E5%9F%BA%E7%A1%80/Buffer%20Pool.md)
 
 ## Java并发编程
 - [Java虚拟机](https://github.com/icodeer-java/awesome-java-interview/blob/main/md/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
